@@ -1,0 +1,7 @@
+*.log
+*.aux
+*.gz
+*.fls
+*.fdb_latexmk
+*.swp
+.devcontainer/*
